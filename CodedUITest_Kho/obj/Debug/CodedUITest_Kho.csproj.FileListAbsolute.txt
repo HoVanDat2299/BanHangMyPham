@@ -1,0 +1,7 @@
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\bin\Debug\CodedUITest_Kho.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\bin\Debug\CodedUITest_Kho.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\obj\Debug\CodedUITest_Kho.csprojResolveAssemblyReference.cache
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\obj\Debug\CodedUITest_Kho.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\obj\Debug\CodedUITest_Kho.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\bin\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\CodedUITest_Kho\bin\Debug\BLL_DAL.pdb

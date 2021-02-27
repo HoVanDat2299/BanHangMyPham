@@ -1,0 +1,39 @@
+F:\DoanCNPM\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+F:\DoanCNPM\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+F:\DoanCNPM\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+F:\DoanCNPM\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+C:\Users\khiem\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\khiem\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\khiem\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\khiem\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\khiem\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\14_ HaBuiThuHien_2001181107_btvn\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\MSI GF63\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache

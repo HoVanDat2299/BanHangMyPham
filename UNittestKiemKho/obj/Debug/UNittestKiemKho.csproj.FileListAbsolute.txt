@@ -1,0 +1,9 @@
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\UNittestKiemKho.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\UNittestKiemKho.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\BLL_DAL.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\DAL_BLL.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\BLL_DAL.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\bin\Debug\DAL_BLL.pdb
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\obj\Debug\UNittestKiemKho.csprojResolveAssemblyReference.cache
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\obj\Debug\UNittestKiemKho.dll
+C:\Users\datbo\Desktop\QuanLyMyPhamWinform\QuanLyBanMyPham\UNittestKiemKho\obj\Debug\UNittestKiemKho.pdb

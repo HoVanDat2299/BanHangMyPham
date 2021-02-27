@@ -1,0 +1,10 @@
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\bin\Debug\TestUIBanHang.dll
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\bin\Debug\TestUIBanHang.pdb
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.csprojResolveAssemblyReference.cache
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.dll
+C:\PHANMEM\WORKSPACE\Công nghệ phần mềm\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.pdb
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\bin\Debug\TestUIBanHang.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\bin\Debug\TestUIBanHang.pdb
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.csprojResolveAssemblyReference.cache
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUIBanHang\obj\Debug\TestUIBanHang.pdb

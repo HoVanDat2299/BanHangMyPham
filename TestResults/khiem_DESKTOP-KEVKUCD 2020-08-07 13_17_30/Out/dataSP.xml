@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestDatas>
+  <Addition>
+    <ten>khiem</ten>
+    <gianhap>10</gianhap>
+    <giaban>15</giaban>
+    <mota>mo ta day</mota>
+    <result>khiem</result>
+  </Addition>
+  <Addition>
+    <ten>khiem1</ten>
+    <gianhap>101</gianhap>
+    <giaban>151</giaban>
+    <mota>mo ta da1y</mota>
+    <result>khiem1</result>
+  </Addition>
+</TestDatas>

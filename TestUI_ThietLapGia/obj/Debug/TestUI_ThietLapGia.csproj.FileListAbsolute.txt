@@ -1,0 +1,5 @@
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUI_ThietLapGia\bin\Debug\TestUI_ThietLapGia.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUI_ThietLapGia\bin\Debug\TestUI_ThietLapGia.pdb
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUI_ThietLapGia\obj\Debug\TestUI_ThietLapGia.csprojResolveAssemblyReference.cache
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUI_ThietLapGia\obj\Debug\TestUI_ThietLapGia.dll
+E:\QuanLyMyPhamWinform\QuanLyBanMyPham\TestUI_ThietLapGia\obj\Debug\TestUI_ThietLapGia.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestDatas>
+  <Addition>
+    <One>4</One>
+    <Two>6</Two>
+    <Result>10</Result>
+  </Addition>
+</TestDatas>
